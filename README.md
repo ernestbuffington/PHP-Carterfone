@@ -1,5 +1,5 @@
 # PHP-Carterfone
- Created by the members of The 86it Developers Network and has been in development since Jan 1st 2021. This is an application used to migrate external applications into PHP-AN602. It also takes care of connecting user websites/portals to the 86it Devlopers Network Hub. It is used for the automation of federated and NoSQL database updates and initial setups.
+ Created by the members of The 86it Developers Network and has been in development since Jan 1st 2021. This is an application used to migrate external applications into PHP-AN602. It also takes care of connecting user websites/portals to the 86it Devlopers Network Hub. It is used for the automation of federated and NoSQL database updates and setups.
  
  
 # What is meant by federated database?
